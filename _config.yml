@@ -10,12 +10,12 @@ default_lang: en
 default_body_class: list
 
 author:
-    name: Yours Truly
-    # url:  http://example.com/
+    name: AutoSponge
+    url:  http://autosponge.github.io
     company:
-        name: Famous Inc.
-        # url:  http://example.com/
+        name: Storrs Web Development Meetup
+        url:  http://www.meetup.com/Storrs-Web-Development-Meetup/
 
-fork_url: https://github.com/shower/shower
+fork_url: https://github.com/autosponge/jekyller
 progress: true
 line_numbers: true
